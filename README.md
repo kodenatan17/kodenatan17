@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kodenatan17
+- 👋 Assalamualaikum, I’m @kodenatan17
 - 👀 I’m interested in Flutter, Dart, Laravel and Go
 - 🌱 I’m currently learning Laravel and Go
 
