@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sedjoek_apps](https://github.com/kodenatan17/sedjoek_apps)
 
-- 🌱 I’m currently learning **Laravel, Flutter, Firebase**
+- 🌱 I’m currently learning **Laravel, Flutter, Firebase, Dart, Ionic**
 
 - 📫 How to reach me **kodenatan17@gmail.com**
 
