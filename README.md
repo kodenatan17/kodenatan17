@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferry Natan Wibisono</h1>
 <h3 align="center">A passionate full stack developer from Bekasi, Indonesia</h3>
 
-- 🔭 I’m currently working on [sedjoek_apps](https://github.com/kodenatan17/sedjoek_apps)
+- 🔭 I’m currently working on [makulindonesia](https://github.com/kodenatan17/makul-indonesia)
 
 - 🌱 I’m currently learning **Laravel, Flutter, Firebase, Dart, Ionic**
 
